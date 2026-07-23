@@ -136,7 +136,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 If you have questions about this Privacy Policy, contact us at:
 
 **Aligned Systems LLC**
-**Email**: support@alignedsystems.com
+**Email**: support@rememberai.com
 
 ---
 

@@ -135,7 +135,7 @@ We reserve the right to modify these Terms at any time. We will notify users of 
 If you have questions about these Terms, contact us at:
 
 **Aligned Systems LLC**
-**Email**: support@alignedsystems.com
+**Email**: support@rememberai.com
 
 ---
 
