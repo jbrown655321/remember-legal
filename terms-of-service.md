@@ -2,7 +2,7 @@
 
 **Last updated: July 19, 2026**
 
-Please read these Terms of Service ("Terms") carefully before using the Remember mobile application (the "App") operated by Aligned Systems LLC, a Tennessee limited liability company ("we," "our," or "us").
+Please read these Terms of Service ("Terms") carefully before using the Until Now mobile application (the "App") operated by Aligned Systems LLC, a Tennessee limited liability company ("we," "our," or "us").
 
 ## Acceptance of Terms
 
@@ -10,7 +10,7 @@ By creating an account and using the App, you agree to be bound by these Terms a
 
 ## Description of Service
 
-Remember is a personal memory and life journaling application that allows you to:
+Until Now is a personal memory and life journaling application that allows you to:
 - Capture and organize memories, notes, lists, and photos
 - Use AI-powered features to extract insights from your entries
 - Set reminders and receive notifications

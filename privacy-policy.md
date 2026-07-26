@@ -2,7 +2,7 @@
 
 **Last updated: July 19, 2026**
 
-Aligned Systems LLC ("we," "our," or "us"), a Tennessee limited liability company, operates the Remember mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and protect your information.
+Aligned Systems LLC ("we," "our," or "us"), a Tennessee limited liability company, operates the Until Now mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and protect your information.
 
 ## Information We Collect
 
